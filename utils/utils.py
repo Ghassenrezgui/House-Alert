@@ -12,11 +12,7 @@ from datetime import datetime
 # Rental criteria: (minimum size in m², maximum price in €)
 # A listing is a match if it fits any of these brackets.
 TARGET_HOUSES = [
-    {"price": 900.0,  "sizeMin": 25.0},
-    {"price": 1100.0, "sizeMin": 30.0},
-    {"price": 1200.0, "sizeMin": 35.0},
-    {"price": 1300.0, "sizeMin": 40.0},
-    {"price": 1500.0, "sizeMin": 50.0},
+    {"price": 1650.0, "sizeMin": 35.0},
 ]
 
 
